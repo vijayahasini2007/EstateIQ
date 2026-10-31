@@ -1,5 +1,11 @@
 # 🏙️ EstateIQ – Real Estate Market Analytics & Insights
 
+## 🚀 Live Demo
+
+**Explore EstateIQ:** [Open Live Dashboard](https://estateiq-5znnyjpdcs4uf5h4ayadqe.streamlit.app/)
+
+Explore interactive real estate analytics, property price trends, location comparisons, rental insights, and ML-based price estimation.
+
 EstateIQ is an interactive Streamlit dashboard for exploring property prices, location-level differences, property characteristics, rental metrics and indicative price estimates.
 
 > **Important:** The included sample dataset is synthetic demonstration data generated for this project. It is not actual property listings or verified market prices. Use a properly licensed real dataset before making real-world market claims.
