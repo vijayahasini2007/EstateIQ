@@ -1,0 +1,1 @@
+The bundled `raw/estateiq_sample_synthetic.csv` is generated synthetic data for demonstration only. It does not represent actual property listings or verified market prices. Replace it with a properly licensed dataset for real-world analysis.
